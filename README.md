@@ -32,8 +32,8 @@ Rule base application or even neural network...etc.
 ## Compile-SourceCode
 
  * clone the project
-    1. to clone the project, type in `git clone https://github.com/singluntang/Development.git`
-    2. Move to the root folder `Development\AI`. type in the command `javac -d ./build/ ./AI-Java-Framework/**/*.java` to build the application.
+    1. to clone the project, type in `git clone https://github.com/singluntang/AI.git`
+    2. Move to the root folder `AI\AI`. type in the command `javac -d ./build/ ./AI-Java-Framework/**/*.java` to build the application.
 
 ## Run-Application
 
