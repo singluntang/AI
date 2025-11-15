@@ -48,7 +48,7 @@ Rule base application or even neural network...etc.
 * Code References
     * [GitHub](https://github.com/)
     * [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
-    * [Amazon Books Store Search "Constructing Intelligent Agents Using Java"](www.amazon.com)
+    * [Amazon Books Store Search "Constructing Intelligent Agents Using Java"](https://www.amazon.com/-/zh_TW/Constructing-Intelligent-Agents-Using-Java/dp/047139601X/ref=sr_1_1?crid=2DSU3KBOQGQR9&dib=eyJ2IjoiMSJ9.uTU-9e122MntKggTfsrrQQ.VUY0w36GGaNnBXF1wJpP514S6rgE1pAPufHjqzlIm28&dib_tag=se&keywords=Constructing+Intelligent+Agents+Using+Java&qid=1763245199&sprefix=constructing+intelligent+agents+using+java%2Caps%2C258&sr=8-1)
 
 
 
